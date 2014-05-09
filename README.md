@@ -13,8 +13,8 @@ LOOP="/dev/mapper/loop0p2"
 
 dependencies
 sudo apt-get install kpartx
-wget http://downloads.raspberrypi.org/raspbian_latest -O raspian-lates.zip
-unzip  raspian-lates.zip
+wget http://downloads.raspberrypi.org/raspbian_latest -O raspian-latest.zip
+unzip  raspian-latest.zip
 cp 2014-01-07-wheezy-raspbian.img 2014-01-07-wheezy-raspbian.working.img
 
 
